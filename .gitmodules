@@ -1,0 +1,6 @@
+[submodule "arcdps_mock"]
+	path = arcdps_mock
+	url = https://github.com/krappa322/arcdps_mock.git
+[submodule "imgui"]
+	path = imgui
+	url = https://github.com/ocornut/imgui.git
